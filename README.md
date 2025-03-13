@@ -7,7 +7,7 @@
   <a href="https://arxiv.org/"><strong>Arxiv</strong></a> 
 </h3>
 
-[Simona Kocour](https://siyun-liang.github.io/)<sup>1,2</sup>, [Assia Benbihi](https://abenbihi.github.io)<sup>2</sup>, [Katerina (Aikaterini) Adam](https://scholar.google.gr/citations?user=cbBEMgYAAAAJ&hl=el)<sup>3</sup>, [Torsten Sattler](https://tsattler.github.io)<sup>2</sup>
+[Simona Kocour](https://simonakocour.github.io)<sup>1,2</sup>, [Assia Benbihi](https://abenbihi.github.io)<sup>2</sup>, [Katerina (Aikaterini) Adam](https://scholar.google.gr/citations?user=cbBEMgYAAAAJ&hl=el)<sup>3</sup>, [Torsten Sattler](https://tsattler.github.io)<sup>2</sup>
 
 <sup>1</sup>Faculty of Electrical Engineering, Czech Technical University in Prague, <sup>2</sup>Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague, <sup>3</sup>Archimedes Research Unit, Athena Greece
 
