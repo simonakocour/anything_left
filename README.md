@@ -13,6 +13,6 @@
 
 </div>
 
-![Teaser image](assets/teaser_figure_sags_garden_table.png)
+![Teaser image](assets/teaser.png)
 
 The official implementation is coming soon.
