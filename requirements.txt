@@ -1,0 +1,18 @@
+# Core (evaluation, depth diff, pipeline)
+numpy>=1.21.0
+torch>=1.10.0
+opencv-python>=4.5.0
+Pillow>=9.0.0
+scipy>=1.7.0
+matplotlib>=3.5.0
+tqdm>=4.62.0
+
+# Optional: run_sam_on_rgb.py
+# pip install git+https://github.com/facebookresearch/segment-anything.git
+# Download: https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
+
+# Optional: convert_gsam2_to_masks.py
+# pip install pycocotools
+
+# Optional: download_dataset.py
+# pip install huggingface_hub

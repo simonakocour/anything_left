@@ -1,0 +1,19 @@
+# SAM checkpoint (download separately from https://dl.fbaipublicfiles.com/segment_anything/)
+checkpoints/
+
+# Downloaded data
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

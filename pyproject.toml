@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "remove360"
+version = "0.1.0"
+description = "Evaluation framework for semantic residuals after object removal in 3D Gaussian Splatting"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "CC-BY-NC-4.0"}
+authors = [
+    {name = "Simona Kocour"},
+    {name = "Assia Benbihi"},
+    {name = "Torsten Sattler"},
+]
+keywords = ["3d-gaussian-splatting", "object-removal", "evaluation", "computer-vision"]
+classifiers = [
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+]
+dependencies = [
+    "numpy>=1.21.0",
+    "torch>=1.10.0",
+    "opencv-python>=4.5.0",
+    "Pillow>=9.0.0",
+    "scipy>=1.7.0",
+    "matplotlib>=3.5.0",
+    "tqdm>=4.62.0",
+]
+
+[project.optional-dependencies]
+datasets = ["huggingface_hub>=0.20.0"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["remove360", "remove360.*"]
